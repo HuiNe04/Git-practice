@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Đây là README từ nhánh main.
-=======
-Đây là README từ nhánh conflict-demo.
->>>>>>> conflict-demo
+Giới thiệu: Tôi là Nguyễn Châu Trường Huy, 226175
