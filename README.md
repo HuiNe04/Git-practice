@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là Nguyễn Châu Trường Huy , 226175 .
+Đây là README từ nhánh main.
